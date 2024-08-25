@@ -1,5 +1,5 @@
 <div style="width:100%; height:300px; overflow:hidden;">
-    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/73987572892175.5bf6c6f15f676.gif" width="100%" height="auto">
+    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/73987572892175.5bf6c6f15f676.gif" width="100%">
 </div>
 
 
