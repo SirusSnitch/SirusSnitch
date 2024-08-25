@@ -27,9 +27,9 @@ Hi 👋, I am Sirus Snitch, a recent Business Computing graduate specializing in
 
 - 🔭 I’m currently learning **various things**
 
-- 👨‍💻 All of my projects are available at my [Github](https://github.com/SirusSnitch?tab=repositories)
+- 👨‍💻 All of my projects are available in my [Github](https://github.com/SirusSnitch?tab=repositories)
 
-- 📫 Reach by [Email](mailto:chedli.bousbih@gmail.com)
+- 📫 Reach me by [Email](mailto:chedli.bousbih@gmail.com)
 
 </details>
 </p>
