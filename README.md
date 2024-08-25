@@ -1,6 +1,5 @@
-<div style="width: 100%; height: 300px; overflow: hidden;">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/73987572892175.5bf6c6f15f676.gif" style="width: 100%; height: auto; object-fit: cover;" />
-</div>
+  <img src="https://i.postimg.cc/02DCjzzs/ezgif-com-crop-1.gif" width="100%" />
+
 
 
 
@@ -35,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 👾 Github Stats
 
-<img align="right" width="48%" style="clip-path: inset(0% 0% 4% 0%);" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/0479b156712381.59b959e7f3d9b.gif"/>
+<img align="right" width="47%" src="https://i.postimg.cc/W1VwksZJ/ezgif-com-crop.gif"/>
 
 <a href="https://git.io/streak-stats"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=SirusSnitch&theme=dark" alt="GitHub Streak" /></a>
 
