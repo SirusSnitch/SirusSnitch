@@ -8,7 +8,7 @@
 <p align="center">
 <a href="https://www.youtube.com/@sin_007"><img width="50px" alt="Youtube" title="Youtube" src="https://i.postimg.cc/1X8bf2X4/youtube.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
-<a href="discord.gg/duwUTHG"><img width="43px" alt="Discord" title="Discord" src="https://i.postimg.cc/VvTQg1pj/discord.png"/></a>
+<a href="https://www.discord.gg/duwUTHG"><img width="43px" alt="Discord" title="Discord" src="https://i.postimg.cc/VvTQg1pj/discord.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
 <a href="https://www.instagram.com/midnightpulser/"><img width="40px" alt="Instagram" title="Instagram" src="https://i.postimg.cc/RhqxwqsS/instagram.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
