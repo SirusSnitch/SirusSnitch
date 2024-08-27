@@ -31,6 +31,8 @@ Hi 👋, I am Sirus Snitch, a recent Business Computing graduate specializing in
 
 - 📫 Reach me by [Email](mailto:chedli.bousbih@gmail.com)
 
+-  <img src="https://komarev.com/ghpvc/?username=SirusSnitch&style=flat-square&color=blueviolet"></img>
+
 </details>
 </p>
 
