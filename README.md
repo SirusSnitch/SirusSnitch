@@ -48,6 +48,8 @@ Hi 👋, I am Sirus Snitch, a recent Business Computing graduate specializing in
  &#8287;&#8287;&#8287;&#8287;&#8287;
 <img width="50px" alt="R" title="R" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png"/>
  &#8287;&#8287;&#8287;&#8287;&#8287;
+<img width="30px" alt="SQL" title="SQL" src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-1521x2048-d0vdpxpg.png"/>
+ &#8287;&#8287;&#8287;&#8287;&#8287;
 <img width="40px" alt="php" title="php" src="https://cdn-icons-png.flaticon.com/256/15474/15474204.png"/>
  &#8287;&#8287;&#8287;&#8287;&#8287;
 <img width="40px" alt="html" title="html" src="https://cdn-icons-png.flaticon.com/256/1051/1051277.png"/>
