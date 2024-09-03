@@ -58,6 +58,8 @@ Hi 👋, I am Sirus Snitch, a recent Business Computing graduate specializing in
  &#8287;&#8287;&#8287;&#8287;&#8287;
 <img width="40px" alt="Java Script" title="Java Script" src="https://cdn-icons-png.flaticon.com/256/5968/5968292.png"/>
  &#8287;&#8287;&#8287;&#8287;&#8287;
+<img width="40px" alt="Java Script" title="Type Script" src="https://cdn.worldvectorlogo.com/logos/typescript.svg"/>
+ &#8287;&#8287;&#8287;&#8287;&#8287;
 <img width="45px" alt="GDScript" title="GDScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png"/>
 </p>
 <br>
