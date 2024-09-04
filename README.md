@@ -64,18 +64,20 @@ Hi 👋, I am Sirus Snitch, a recent Business Computing graduate specializing in
 </p>
 <br>
 
-<!-- <h1 align="center">Frameworks</h1>
+<h1 align="center">Frameworks</h1>
 <p align="center">
-<img width="140px" alt="Spring Boot" title="Spring Boot" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/2560px-Spring_Framework_Logo_2018.svg.png"/>
+<img width="49px" alt="Spring Boot" title="Spring Boot" src="https://img.icons8.com/?size=512&id=90519&format=png"/>
  &#8287;&#8287;&#8287;&#8287;&#8287;
- <img width="90px" alt="Django" title="Django" src="https://i.postimg.cc/rmcHNzm6/1-1-Django-Logo-removebg-preview.png"/>
+ <img width="35px" alt="Django" title="Django" src="https://static-00.iconduck.com/assets.00/django-icon-1606x2048-lwmw1z73.png"/>
  &#8287;&#8287;&#8287;&#8287;&#8287;
-<img width="130px" alt="Node.js" title="Node.js" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/2560px-Node.js_logo_2015.svg.png"/>
+<img width="43px" alt="Node.js" title="Node.js" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png"/>
  &#8287;&#8287;&#8287;&#8287;&#8287;
-<img width="130px" alt="Angular" title="Angular" src="https://angular.dev/assets/images/press-kit/angular_wordmark_gradient.png"/>
+<img width="55px" alt="Express" title="Express" src="https://img.icons8.com/fluent/200/express-js.png"/>
  &#8287;&#8287;&#8287;&#8287;&#8287;
-<img width="90px" alt="React.js" title="React.js" src="https://logos-world.net/wp-content/uploads/2023/08/React-Symbol.png"/>
-</p> -->
+<img width="43px" alt="Angular" title="Angular" src="https://seeklogo.com/images/A/angular-icon-logo-5FC0C40EAC-seeklogo.com.png"/>
+ &#8287;&#8287;&#8287;&#8287;&#8287;
+<img width="47px" alt="React.js" title="React.js" src="https://goldeneagle.ai/static/images/technology/react.png"/>
+</p>
 
 
 <!---
