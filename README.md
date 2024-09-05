@@ -74,9 +74,9 @@ Hi 👋, I am Sirus Snitch, a recent Business Computing graduate specializing in
  &#8287;&#8287;&#8287;&#8287;&#8287;
 <img width="55px" alt="Express" title="Express" src="https://img.icons8.com/fluent/200/express-js.png"/>
  &#8287;&#8287;&#8287;&#8287;&#8287;
-<img width="43px" alt="Angular" title="Angular" src="https://seeklogo.com/images/A/angular-icon-logo-5FC0C40EAC-seeklogo.com.png"/>
+<img width="47px" alt="React.js" title="React.js" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"/>
  &#8287;&#8287;&#8287;&#8287;&#8287;
-<img width="47px" alt="React.js" title="React.js" src="https://goldeneagle.ai/static/images/technology/react.png"/>
+<img width="43px" alt="Angular" title="Angular" src="https://seeklogo.com/images/A/angular-icon-logo-5FC0C40EAC-seeklogo.com.png"/>
 </p>
 
 
