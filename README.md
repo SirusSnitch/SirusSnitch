@@ -64,9 +64,9 @@ Hi 👋, I am Sirus Snitch, a recent Business Computing graduate specializing in
 </p>
 <br>
 
-<table align="center" width="100%">
+<!-- <table align="center" width="100%">
 <tr>
-<td width="50%" style="vertical-align: top;">
+<td width="50%" style="vertical-align: top;"> -->
 <h1 align="center">Frameworks</h1>
 <p align="left">
 <img width="49px" alt="Spring Boot" title="Spring Boot" src="https://img.icons8.com/?size=512&id=90519&format=png"/>
@@ -81,7 +81,7 @@ Hi 👋, I am Sirus Snitch, a recent Business Computing graduate specializing in
  &#8287;&#8287;&#8287;&#8287;&#8287;
 <img width="43px" alt="Angular" title="Angular" src="https://seeklogo.com/images/A/angular-icon-logo-5FC0C40EAC-seeklogo.com.png"/>
 </p>
-</td>
+<!-- </td>
 <td width="50%" style="vertical-align: top;">
 <h1 align="center">Tools & Technologies</h1>
 <p align="center">
@@ -104,7 +104,7 @@ Hi 👋, I am Sirus Snitch, a recent Business Computing graduate specializing in
 </p>
 </td>
 </tr>
-</table>
+</table> -->
 
 <!---
 SirusSnitch/SirusSnitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
