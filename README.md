@@ -68,7 +68,7 @@ Hi 👋, I am Sirus Snitch, a recent Business Computing graduate specializing in
 <tr>
 <td width="50%" style="vertical-align: top;"> -->
 <h1 align="center">Frameworks</h1>
-<p align="left">
+<p align="center">
 <img width="49px" alt="Spring Boot" title="Spring Boot" src="https://img.icons8.com/?size=512&id=90519&format=png"/>
  &#8287;&#8287;&#8287;&#8287;&#8287;
  <img width="35px" alt="Django" title="Django" src="https://static-00.iconduck.com/assets.00/django-icon-1606x2048-lwmw1z73.png"/>
