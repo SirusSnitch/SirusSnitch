@@ -64,8 +64,11 @@ Hi 👋, I am Sirus Snitch, a recent Business Computing graduate specializing in
 </p>
 <br>
 
+<table align="center" width="100%">
+<tr>
+<td width="50%" style="vertical-align: top;">
 <h1 align="center">Frameworks</h1>
-<p align="center">
+<p align="left">
 <img width="49px" alt="Spring Boot" title="Spring Boot" src="https://img.icons8.com/?size=512&id=90519&format=png"/>
  &#8287;&#8287;&#8287;&#8287;&#8287;
  <img width="35px" alt="Django" title="Django" src="https://static-00.iconduck.com/assets.00/django-icon-1606x2048-lwmw1z73.png"/>
@@ -78,7 +81,30 @@ Hi 👋, I am Sirus Snitch, a recent Business Computing graduate specializing in
  &#8287;&#8287;&#8287;&#8287;&#8287;
 <img width="43px" alt="Angular" title="Angular" src="https://seeklogo.com/images/A/angular-icon-logo-5FC0C40EAC-seeklogo.com.png"/>
 </p>
-
+</td>
+<td width="50%" style="vertical-align: top;">
+<h1 align="center">Tools & Technologies</h1>
+<p align="center">
+<img width="50px" alt="Power BI" title="Power BI" src="https://img.icons8.com/color/200/power-bi-2021.png"/>    
+ &#8287;&#8287;&#8287;&#8287;&#8287;
+<img width="50px" alt="PostgreSQL" title="PostgreSQL" src="https://marketplacedesignoye.s3.ap-south-1.amazonaws.com/postgresql-branding-icon-symbol-logo-vector-.png"/>
+ &#8287;&#8287;&#8287;&#8287;&#8287;
+<img width="50px" alt="SQL Server" title="SQL Server" src="https://img.icons8.com/?size=512&id=laYYF3dV0Iew&format=png"/>
+ &#8287;&#8287;&#8287;&#8287;&#8287;
+<img width="50px" alt="MySQL" title="MySQL" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png"/>
+ &#8287;&#8287;&#8287;&#8287;&#8287;
+<img width="48px" alt="MongoDB" title="MongoDB" src="https://www.svgrepo.com/show/331488/mongodb.svg"/>
+ &#8287;&#8287;&#8287;&#8287;&#8287;
+<img width="43px" alt="Talend" title="Talend" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/talend_logo_icon_169665.png"/>  
+<br>  
+<br>  
+<img width="45px" alt="Blender" title="Blender" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/blender-icon.png"/>    
+ &#8287;&#8287;&#8287;&#8287;&#8287;
+<img width="45px" alt="Godot" title="Godot" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png"/>
+</p>
+</td>
+</tr>
+</table>
 
 <!---
 SirusSnitch/SirusSnitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
