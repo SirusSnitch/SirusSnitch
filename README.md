@@ -115,10 +115,10 @@ You can click the Preview link to take a look at your changes.
 
 <img align="right" width="47%" src="https://i.postimg.cc/W1VwksZJ/ezgif-com-crop.gif"/>
 
-<a href="https://git.io/streak-stats"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=SirusSnitch&theme=dark" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=SirusSnitch&theme=dark" alt="GitHub Streak" /></a>
 
-<a href="https://git.io/streak-stats"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=SirusSnitch&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="SirusSnitch's Stats" /></a>
+<a href="https://git.io/streak-stats"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=SirusSnitch&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="SirusSnitch's Stats" /></a>
 
-<a href="https://git.io/streak-stats"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirusSnitch&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="SirusSnitch's Top Languages" /></a>
+<a href="https://git.io/streak-stats"><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirusSnitch&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="SirusSnitch's Top Languages" /></a>
 
 
