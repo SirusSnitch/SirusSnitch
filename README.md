@@ -61,6 +61,8 @@ Hi 👋, I am Sirus Snitch, a recent Business Computing graduate specializing in
 <img width="40px" alt="Java Script" title="Type Script" src="https://cdn.worldvectorlogo.com/logos/typescript.svg"/>
  &#8287;&#8287;&#8287;&#8287;&#8287;
 <img width="45px" alt="GDScript" title="GDScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png"/>
+ &#8287;&#8287;&#8287;&#8287;&#8287;
+<img width="43px" alt="BASH & Shell Scripts" title="BASH & Shell Scripts" src="https://blog.thibaut-rousseau.com/blog/shell-scripts-matter/bash-logo.png"/>
 </p>
 <br>
 
@@ -79,7 +81,7 @@ Hi 👋, I am Sirus Snitch, a recent Business Computing graduate specializing in
  &#8287;&#8287;&#8287;&#8287;&#8287;
 <img width="47px" alt="React.js" title="React.js" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"/>
  &#8287;&#8287;&#8287;&#8287;&#8287;
-<img width="43px" alt="Angular" title="Angular" src="https://seeklogo.com/images/A/angular-icon-logo-5FC0C40EAC-seeklogo.com.png"/>
+<img width="50px" alt="Angular" title="Angular" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png"/>
 </p>
 <!-- </td>
 <td width="50%" style="vertical-align: top;">
