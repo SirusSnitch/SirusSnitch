@@ -48,7 +48,7 @@ Hi 👋, I am Sirus Snitch, a recent Business Computing graduate specializing in
  &#8287;&#8287;&#8287;&#8287;&#8287;
 <img width="50px" alt="R" title="R" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png"/>
  &#8287;&#8287;&#8287;&#8287;&#8287;
-<img width="30px" alt="SQL" title="SQL" src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-1521x2048-d0vdpxpg.png"/>
+<img width="30px" alt="SQL" title="SQL" src="https://www.freeiconspng.com/uploads/sql-server-icon-png-29.png"/>
  &#8287;&#8287;&#8287;&#8287;&#8287;
 <img width="40px" alt="php" title="php" src="https://cdn-icons-png.flaticon.com/256/15474/15474204.png"/>
  &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -73,9 +73,9 @@ Hi 👋, I am Sirus Snitch, a recent Business Computing graduate specializing in
 <p align="center">
 <img width="49px" alt="Spring Boot" title="Spring Boot" src="https://img.icons8.com/?size=512&id=90519&format=png"/>
  &#8287;&#8287;&#8287;&#8287;&#8287;
- <img width="35px" alt="Django" title="Django" src="https://static-00.iconduck.com/assets.00/django-icon-1606x2048-lwmw1z73.png"/>
+ <img width="47px" alt="Django" title="Django" src="https://goldeneagle.ai/static/images/technology/django.png"/>
  &#8287;&#8287;&#8287;&#8287;&#8287;
-<img width="43px" alt="Node.js" title="Node.js" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png"/>
+<img width="55px" alt="Node.js" title="Node.js" src="https://icons.veryicon.com/png/o/business/2022-alibaba-cloud-product-icon-developer/nodejs-node-js-performance-platform.png"/>
  &#8287;&#8287;&#8287;&#8287;&#8287;
 <img width="55px" alt="Express" title="Express" src="https://img.icons8.com/fluent/200/express-js.png"/>
  &#8287;&#8287;&#8287;&#8287;&#8287;
