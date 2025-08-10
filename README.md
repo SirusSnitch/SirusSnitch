@@ -73,9 +73,9 @@ Hi 👋, I am Sirus Snitch, a recent Business Computing graduate specializing in
 <p align="center">
 <img width="49px" alt="Spring Boot" title="Spring Boot" src="https://img.icons8.com/?size=512&id=90519&format=png"/>
  &#8287;&#8287;&#8287;&#8287;&#8287;
- <img width="47px" alt="Django" title="Django" src="https://goldeneagle.ai/static/images/technology/django.png"/>
+ <img width="35px" alt="Django" title="Django" src="https://cdn.worldvectorlogo.com/logos/django.svg"/>
  &#8287;&#8287;&#8287;&#8287;&#8287;
-<img width="55px" alt="Node.js" title="Node.js" src="https://icons.veryicon.com/png/o/business/2022-alibaba-cloud-product-icon-developer/nodejs-node-js-performance-platform.png"/>
+<img width="48px" alt="Node.js" title="Node.js" src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-5-pack-logos-icons-3030179.png?f=webp&w=256"/>
  &#8287;&#8287;&#8287;&#8287;&#8287;
 <img width="55px" alt="Express" title="Express" src="https://img.icons8.com/fluent/200/express-js.png"/>
  &#8287;&#8287;&#8287;&#8287;&#8287;
