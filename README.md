@@ -17,7 +17,8 @@
 
 <br>
 <p>
-Hi 👋, I am Sirus Snitch, a recent Business Computing graduate specializing in Business Intelligence, with a keen interest in web development and data analytics. I enjoy exploring new technologies, tackling business challenges, and building dynamic web applications. Always eager to learn, network, and contribute to impactful projects ✨
+Hi, I’m Chedli Bousbih, a Master’s student in Data Science with a background in Business Computing, specialized in Business Intelligence.
+My interests include data analysis, machine learning, and analytical systems.
 
 
 <details>
