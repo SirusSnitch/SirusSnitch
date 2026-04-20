@@ -82,7 +82,7 @@ My interests include data analysis, machine learning, and analytical systems.
  &#8287;&#8287;&#8287;&#8287;&#8287;
 <img width="47px" alt="React.js" title="React.js" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"/>
  &#8287;&#8287;&#8287;&#8287;&#8287;
-<img width="50px" alt="Angular" title="Angular" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png"/>
+<img width="52px" alt="Angular" title="Angular" src="https://js.devexpress.com/Content/Images/Frameworks/Angular.png"/>
 </p>
 <!-- </td>
 <td width="50%" style="vertical-align: top;">
