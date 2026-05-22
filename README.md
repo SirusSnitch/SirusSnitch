@@ -10,8 +10,6 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
 <a href="https://www.discord.gg/duwUTHG"><img width="43px" alt="Discord" title="Discord" src="https://i.postimg.cc/VvTQg1pj/discord.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
-<a href="https://www.instagram.com/midnightpulser/"><img width="40px" alt="Instagram" title="Instagram" src="https://i.postimg.cc/RhqxwqsS/instagram.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
 <a href="https://www.reddit.com/user/SIN_12/"><img width="39px" alt="Reddit" title="Reddit" src="https://i.postimg.cc/pTst9KBc/reddit.png"/></a>
 </p>
 
